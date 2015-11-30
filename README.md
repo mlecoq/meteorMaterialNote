@@ -1,4 +1,6 @@
 # MaterialNote meteor package
+Fork of Cerealkiller's materialNote for meteor with default material tooltips.
+
 A meteor package version of materialNote (wysiwyg for the web based on summernote.js and materialize)
 
 See:

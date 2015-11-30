@@ -1,10 +1,10 @@
 Package.describe({
-    name: 'cerealkiller:materialnote',
+    name: 'vojtechklos:materialnote',
     version: '1.2.1',
     // Brief, one-line summary of the package.
-    summary: 'material wysiwyg editor',
+    summary: 'material wysiwyg editor, fork with material tooltips',
     // URL to the Git repository containing the source code for this package.
-    git: 'https://github.com/Cerealkillerway/meteorMaterialNote',
+    git: 'https://github.com/VojtechKlos/meteorMaterialNote',
     // By default, Meteor will default to using README.md for documentation.
     // To avoid submitting documentation, set this field to null.
     documentation: 'README.md'
