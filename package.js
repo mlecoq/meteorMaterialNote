@@ -1,6 +1,6 @@
 Package.describe({
     name: 'vojtechklos:materialnote',
-    version: '1.2.1',
+    version: '1.2.2',
     // Brief, one-line summary of the package.
     summary: 'material wysiwyg editor, fork with material tooltips',
     // URL to the Git repository containing the source code for this package.
@@ -15,8 +15,6 @@ Package.onUse(function(api) {
 
     // packages
     api.use('fourseven:scss@3.2.0', 'client');
-    //api.use('tap:i18n@1.7.0');
-    api.use('materialize:materialize@0.97.3', 'client');
 
     //exports
 
